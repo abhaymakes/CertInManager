@@ -10,22 +10,6 @@
 
 ---
 
-## Why?
-
-```text
-Assessment Complete ✓
-
-Findings Documented ✓
-
-Report Generated ✓
-
-Sleep Restored ✓
-```
-
-CERTIN Report Generator helps security professionals manage vulnerabilities, organize evidence, and generate professional assessment reports from a single interface.
-
----
-
 ## Features
 
 ⚡ Vulnerability Management
