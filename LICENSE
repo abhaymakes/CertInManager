@@ -1,17 +1,97 @@
-All Rights Reserved
+Copyright (c) 2026 Abhay Shukla. All Rights Reserved.
 
-Copyright (c) 2026 Abhay Shukla
+PROPRIETARY SOFTWARE LICENSE
 
-THE CONTENTS OF THIS PROJECT ARE PROPRIETARY AND CONFIDENTIAL.
-UNAUTHORIZED COPYING, TRANSFERRING OR REPRODUCTION OF THE CONTENTS OF THIS PROJECT, VIA ANY MEDIUM IS STRICTLY PROHIBITED.
+IMPORTANT: READ THIS LICENSE CAREFULLY BEFORE USING, COPYING, MODIFYING, DISTRIBUTING, OR ACCESSING THIS SOFTWARE.
 
-The receipt or possession of the source code and/or any parts thereof does not convey or imply any right to use them
-for any purpose other than the purpose for which they were provided to you.
+1. OWNERSHIP
 
-The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to
-the warranties of merchantability, fitness for a particular purpose and non infringement.
-In no event shall the authors or copyright holders be liable for any claim, damages or other liability,
-whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software
-or the use or other dealings in the software.
+This software, including but not limited to its source code, object code, documentation, designs, architecture, algorithms, templates, assets, and related materials (collectively, the "Software"), is the exclusive property of Abhay Shukla and is protected by applicable copyright, trade secret, and intellectual property laws.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the software.
+2. LICENSE GRANT
+
+Subject to compliance with this License, authorized users are granted a limited, non-exclusive, non-transferable, revocable license to use the Software solely for the purpose for which it was provided.
+
+No ownership rights are transferred under this License.
+
+3. RESTRICTIONS
+
+Unless expressly authorized in writing by the copyright holder, you may not:
+
+* Copy, reproduce, distribute, publish, sublicense, lease, rent, sell, or transfer the Software.
+* Modify, adapt, translate, or create derivative works based on the Software.
+* Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software.
+* Remove, alter, or obscure any copyright, trademark, or proprietary notices.
+* Use the Software to provide services to third parties or operate a competing product.
+* Share, disclose, or make available the Software or any portion thereof to unauthorized persons.
+
+4. CONFIDENTIALITY
+
+The Software contains proprietary and confidential information. Any recipient of the Software agrees to maintain the confidentiality of all non-public aspects of the Software and to take reasonable measures to prevent unauthorized access, disclosure, or use.
+
+5. PROHIBITED USES
+
+The Software may not be used:
+
+* For any unlawful purpose.
+* In violation of any applicable laws or regulations.
+* To facilitate unauthorized access to systems, networks, or data.
+* To engage in fraudulent, malicious, or abusive activities.
+
+The copyright holder expressly disclaims responsibility for any misuse of the Software by users or third parties.
+
+6. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:
+
+* MERCHANTABILITY;
+* FITNESS FOR A PARTICULAR PURPOSE;
+* NON-INFRINGEMENT;
+* ACCURACY;
+* RELIABILITY;
+* SECURITY;
+* AVAILABILITY.
+
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, OR FREE OF VULNERABILITIES.
+
+7. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT HOLDER, CONTRIBUTORS, DEVELOPERS, OR AFFILIATES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO:
+
+* LOSS OF PROFITS;
+* LOSS OF DATA;
+* BUSINESS INTERRUPTION;
+* PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+* SECURITY INCIDENTS;
+* SYSTEM FAILURES.
+
+THIS LIMITATION APPLIES REGARDLESS OF THE THEORY OF LIABILITY AND EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. INDEMNIFICATION
+
+You agree to indemnify, defend, and hold harmless the copyright holder from and against any claims, liabilities, damages, losses, costs, and expenses arising out of:
+
+* Your use of the Software;
+* Your violation of this License;
+* Your violation of applicable laws or regulations;
+* Any misuse of the Software by you or persons acting on your behalf.
+
+9. TERMINATION
+
+This License automatically terminates upon any breach of its terms.
+
+Upon termination, all rights granted under this License immediately cease, and you must stop using and destroy all copies of the Software in your possession or control.
+
+10. GOVERNING LAW
+
+This License shall be governed by and construed in accordance with the laws of India, without regard to conflict-of-law principles.
+
+Any dispute arising from or relating to this License shall be subject to the exclusive jurisdiction of the courts located in India.
+
+11. RESERVATION OF RIGHTS
+
+All rights not expressly granted under this License are reserved by the copyright holder.
+
+Copyright (c) 2026 Abhay Shukla. All Rights Reserved.
