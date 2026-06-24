@@ -14,6 +14,32 @@ The format is based on Keep a Changelog and this project adheres to Semantic Ver
 
 ---
 
+## [1.1.0] - 2026-06-24
+
+### Added
+
+* Automatic conversion of URLs into clickable hyperlinks in generated DOCX reports.
+* Automatic conversion of email addresses into clickable hyperlinks in generated DOCX reports.
+* Employee suggestions/autocomplete support for selected form fields.
+* Placeholder text across various form inputs to improve usability.
+* Textarea support for Executive Summary asset entries.
+
+### Changed
+
+* Replaced single-line text inputs with textareas where multiline content is expected.
+* Updated CertIn DOCX templates to better align generated table widths with template formatting.
+* Improved handling of multiline content throughout report generation workflows.
+
+### Fixed
+
+* Fixed Executive Summary textarea content not being included in generated reports.
+* Fixed date formatting inconsistencies across form inputs and generated documents.
+* Fixed affected assets not being displayed in vulnerability tables due to an incorrect variable reference.
+* Fixed positioning of the Add Vulnerability button to reduce unnecessary scrolling during report creation.
+* Removed redundant server-side image border processing, preventing duplicate borders in generated DOCX reports.
+* Fixed table width formatting inconsistencies in CertIn report templates.
+
+
 ## [1.0.0]
 
 ### Added
