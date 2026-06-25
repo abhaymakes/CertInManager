@@ -14,6 +14,12 @@ The format is based on Keep a Changelog and this project adheres to Semantic Ver
 
 ---
 
+## [1.2.0] - 2026-06-26
+
+### Changed
+
+* Removed `strip` functions wherever RichText is being used.
+
 ## [1.1.0] - 2026-06-24
 
 ### Added
@@ -38,7 +44,6 @@ The format is based on Keep a Changelog and this project adheres to Semantic Ver
 * Fixed positioning of the Add Vulnerability button to reduce unnecessary scrolling during report creation.
 * Removed redundant server-side image border processing, preventing duplicate borders in generated DOCX reports.
 * Fixed table width formatting inconsistencies in CertIn report templates.
-
 
 ## [1.0.0]
 
